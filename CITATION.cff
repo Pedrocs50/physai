@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se você usar este projeto em uma publicação, por favor cite o trabalho abaixo."
+title: "PhysAI"
+authors:
+  - family-names: "HelioAI"
+    given-names: "Grupo"
+version: 0.3.0
+date-released: "2026-10-21"
+url: "https://example.com/physai"
